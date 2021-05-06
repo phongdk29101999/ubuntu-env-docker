@@ -1,0 +1,8 @@
+version: "2.1"
+
+services:
+  app_env:
+    build: .
+    container_name: env_ubuntu
+    volumes: 
+      - ./home:/home
