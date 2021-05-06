@@ -12,4 +12,4 @@ $ sh build-up.sh
 $ sh run.sh
 ```
 
-## mount folder `home`
+mount folder `home`
